@@ -2,7 +2,7 @@
 
 ## Target
 
-Creating end-user documentation for a software project
+Create end-user documentation for a software project
 
 ## User Story
 
