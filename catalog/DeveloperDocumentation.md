@@ -26,5 +26,5 @@
  2. Focus on creation of initial set of documentation that is most likely to be used by team members for developer phase 
  (ex: existing bug list, to-do list, brief design document, code-organization description, coding standard documentation, 
  code repository description and rules, testing documentation etc.)
- 3. Develop a process to solicit feedback on the user documentation and incorporate improvements. A fresh-eyes new team 
+ 3. Develop a process to solicit feedback on the developer documentation and incorporate improvements. A fresh-eyes new team 
  member perspective is desirable to understand what critical things are missing
