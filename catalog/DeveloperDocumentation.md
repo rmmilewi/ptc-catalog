@@ -2,7 +2,7 @@
 
  ## Target
 
- Creating developer documentation for a software project
+ Create documentation for use by the developers of a software project
 
  ## User Story
 
