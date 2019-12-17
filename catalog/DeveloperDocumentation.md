@@ -6,7 +6,7 @@
 
  ## User Story
 
- As application developers, we want to write developer documentation, so that new developers will find it easier 
+ As an application developer, I want to write developer documentation, so that new developers will find it easier 
  to ramp up and contribute to the code development.
 
  ## Card
