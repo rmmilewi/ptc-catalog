@@ -6,7 +6,7 @@ Create end-user documentation for a software project
 
 ## User Story
 
-As application developers, we want to document our project, so that new users will try the application.
+As an application developer, I want to document our project, so that new users will try the application.
 
 ## Card
 
